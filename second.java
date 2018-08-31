@@ -1,7 +1,7 @@
-class two
+class Second
 {
 public static void main(String[] args)
 {
-System.out.println("Manpreet Singh");
+System.out.println("Lakshay");
 }
 }
